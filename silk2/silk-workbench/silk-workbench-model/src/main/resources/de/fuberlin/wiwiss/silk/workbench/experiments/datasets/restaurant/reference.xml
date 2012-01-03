@@ -1,0 +1,1796 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#" xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#">
+  <Alignment>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/83"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/84"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/89"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/90"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/167"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/168"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/187"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/188"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/113"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/114"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/163"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/164"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/81"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/82"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/57"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/58"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/35"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/36"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/125"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/126"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/151"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/152"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/41"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/42"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/71"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/72"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/181"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/182"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/143"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/144"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/211"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/212"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/43"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/44"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/45"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/46"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/107"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/108"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/139"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/140"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/99"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/100"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/51"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/52"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/11"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/12"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/159"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/160"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/131"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/132"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/101"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/102"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/49"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/50"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/77"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/78"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/15"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/16"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/61"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/62"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/199"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/200"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/13"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/14"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/95"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/96"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/119"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/120"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/147"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/148"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/109"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/110"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/91"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/92"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/25"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/26"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/69"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/70"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/219"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/220"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/97"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/98"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/145"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/146"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/141"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/142"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/221"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/222"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/3"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/4"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/223"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/224"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/75"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/76"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/53"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/54"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/111"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/112"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/31"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/32"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/155"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/156"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/29"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/30"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/203"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/204"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/175"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/176"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/79"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/80"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/47"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/48"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/205"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/206"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/183"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/184"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/137"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/138"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/33"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/34"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/129"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/130"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/169"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/170"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/73"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/74"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/215"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/216"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/123"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/124"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/161"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/162"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/193"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/194"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/103"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/104"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/149"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/150"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/19"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/20"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/191"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/192"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/63"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/64"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/5"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/6"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/37"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/38"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/117"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/118"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/23"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/24"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/197"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/198"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/217"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/218"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/105"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/106"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/135"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/136"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/157"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/158"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/133"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/134"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/185"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/186"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/153"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/154"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/87"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/88"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/7"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/8"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/127"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/128"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/121"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/122"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/85"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/86"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/165"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/166"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/213"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/214"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/177"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/178"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/17"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/18"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/55"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/56"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/209"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/210"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/115"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/116"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/67"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/68"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/59"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/60"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/195"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/196"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/189"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/190"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/39"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/40"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/173"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/174"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/171"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/172"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/207"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/208"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/93"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/94"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/179"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/180"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/1"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/2"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/27"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/28"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/9"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/10"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/21"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/22"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/201"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/202"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/65"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/66"></entity2>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/163"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/82"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/169"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/74"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/215"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/124"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/105"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/136"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/111"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/32"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/173"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/172"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/161"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/194"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/181"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/144"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/221"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/4"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/65"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/84"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/157"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/134"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/29"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/204"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/99"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/52"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/109"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/92"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/57"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/36"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/21"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/202"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/87"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/8"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/141"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/222"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/223"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/76"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/153"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/88"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/197"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/218"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/73"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/216"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/187"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/114"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/51"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/12"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/201"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/66"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/35"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/126"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/151"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/42"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/17"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/56"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/209"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/116"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/131"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/102"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/27"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/10"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/63"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/6"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/23"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/198"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/97"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/146"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/205"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/184"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/175"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/80"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/9"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/22"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/47"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/206"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/219"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/98"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/119"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/148"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/41"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/72"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/77"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/16"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/125"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/152"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/71"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/182"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/3"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/224"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/117"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/24"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/177"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/18"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/145"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/142"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/121"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/86"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/13"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/96"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/165"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/214"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/167"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/188"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/31"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/156"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/43"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/46"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/115"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/68"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/127"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/122"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/123"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/162"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/59"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/196"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/203"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/176"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/61"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/200"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/55"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/210"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/139"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/100"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/213"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/178"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/89"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/168"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/79"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/48"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/53"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/112"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/81"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/58"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/93"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/180"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/7"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/128"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/211"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/44"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/193"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/104"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/149"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/20"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/185"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/154"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/11"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/160"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/135"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/158"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/1"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/28"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/217"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/106"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/91"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/26"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/137"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/34"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/129"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/170"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/147"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/110"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/45"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/108"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/199"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/14"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/5"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/38"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/33"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/130"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/113"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/164"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/15"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/62"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/195"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/190"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/39"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/174"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/85"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/166"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/179"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/2"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/83"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/90"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/25"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/70"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/107"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/140"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/103"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/150"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/183"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/138"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/207"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/94"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/143"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/212"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/171"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/208"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/155"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/30"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/159"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/132"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/49"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/78"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/101"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/50"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/95"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/120"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/37"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/118"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/133"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/186"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/19"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/192"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/69"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/220"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/75"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/54"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/67"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/60"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/191"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/64"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/189"></entity1>
+        <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/bizer/silk/experiments/restaurant/40"></entity2>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+  </Alignment>
+</rdf:RDF>
