@@ -5,12 +5,13 @@ import de.fuberlin.wiwiss.silk.entity._
 import io.Source
 import de.fuberlin.wiwiss.silk.runtime.plugin.Plugin
 import de.fuberlin.wiwiss.silk.runtime.resource.Resource
+import java.util.logging.Logger
 
 @Plugin(
   id = "csv",
   label = "CSV Source",
   description = "DataSource which retrieves all entities from a csv file.")
-case class CsvDataSource(file: Resource, properties: String, separator: Char = ',', prefix: String = "") extends DataSource {
+case class CsvDataSource(file: Resource, properties: String, separator: Char = ',', prefix: String = "", uri: String = "") extends DataSource {
 
   private val propertyList: Seq[String] = properties.split(separator)
 
@@ -42,9 +43,21 @@ case class CsvDataSource(file: Resource, properties: String, separator: Char = '
             assert(propertyList.size == allValues.size, "Invalid line '" + line + "' with " + allValues.size + " elements. Expected numer of elements " + propertyList.size + ".")
             //Extract requested values
             val values = indices.map(allValues(_))
+
+            val entityURI = if (uri.isEmpty)
+              prefix + number
+            else
+              "\\{([^\\}]+)\\}".r.replaceAllIn(uri, m => {
+              val propName = m.group(1)
+
+              assert(propertyList.contains(propName))
+              allValues(propertyList.indexOf(propName))
+            })
+
+
             //Build entity
             f(new Entity(
-              uri = prefix + number,
+              uri = entityURI,
               values = values.map(Set(_)),
               desc = entityDesc
             ))
